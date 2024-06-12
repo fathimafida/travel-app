@@ -11,7 +11,7 @@ import travelPic6 from "./assets/iceland.jpeg"
 function App() {
   return (
     <>
-    <div className="header"><h5>Top Selling</h5>
+    <div className="header"><h3>Top Selling</h3>
     <h1>Top Destinations</h1></div>
     <div className="container">
       
